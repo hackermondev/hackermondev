@@ -16,3 +16,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email me therealhackermon@gmail.com
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I have a youtube channel called Hackermon
+
+### Social Media 😛
+
+- Twitter 🐦: @plop_daniel
+- Repl.it: @PDanielY
+- Discord: Hackermon#0001
+- GitHub: isuckatprogram
+- Youtube: Hackermon
