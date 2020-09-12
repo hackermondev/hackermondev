@@ -24,3 +24,8 @@ Here are some ideas to get you started:
 - Discord: Hackermon#0001
 - GitHub: isuckatprogram
 - Youtube: Hackermon
+
+
+### Stats
+![image](https://github-readme-stats.vercel.app/api?username=isuckatprogram)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=isuckatprogram)
