@@ -1,4 +1,7 @@
+![](https://komarev.com/ghpvc/?username=isuckatprogram&color=orange)
+
 ### Hi there 👋
+
 
 <!--
 **isuckatprogram/isuckatprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
