@@ -11,14 +11,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Null, the only discord bot you'll ever need**
+- 🔭 I’m currently working on [**Bots For Hire**](https://bots.wtf)
 - 🌱 I’m currently learning Golang and Java
 - 👯 I’m looking to collaborate on some projects (contact me for more info)
 - 🤔 I’m looking for help with some discord.js problems.
-- 💬 Ask me about discord.js and **Null**
+- 💬 Ask me about discord.js
 - 📫 How to reach me: email me therealhackermon@gmail.com
 - 😄 Pronouns: He, Him
-- ⚡ Fun fact: I have a youtube channel called Hackermon
+- ⚡ Fun fact: 
 
 ### Social Media 😛
 
