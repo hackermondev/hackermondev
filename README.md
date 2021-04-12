@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 
 ```js
 const aboutMe = {
-  'workingOn': 'Cornrella, a paid VPS hosting website with cheap pricing.',
-  'learning': 'Java',
+  'workingOn': 'idk',
+  'learning': 'Golang',
   'contactMe': 'therealhackermon@gmail.com',
   'pronouns': 'he, him'
 }
