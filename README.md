@@ -16,7 +16,7 @@ const aboutMe = {
   'workingOn': 'idk',
   'learning': 'Golang',
   'contactMe': 'therealhackermon@gmail.com',
-  'pronouns': 'he, him'
+  'pronouns': ['he', 'him']
 }
 
 ```
