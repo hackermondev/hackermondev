@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 ```js
 const aboutMe = {
   'workingOn': 'idk',
-  'learning': 'Golang',
+  'learning': 'Java',
   'contactMe': 'therealhackermon@gmail.com',
   'pronouns': ['he', 'him']
 }
