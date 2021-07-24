@@ -1,20 +1,14 @@
 ![](https://komarev.com/ghpvc/?username=hackermondev&color=orange)
+[daniel.is-a.dev](https://daniel.is-a.dev)
 
 ### Hi there 👋
 
-
-<!--
-**isuckatprogram/isuckatprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
--->
-
-Here are some ideas to get you started:
+My name is Hackermon!
 
 ```js
 const aboutMe = {
   'workingOn': 'idk',
-  'learning': 'Java',
+  'learning': '???',
   'contactMe': 'therealhackermon@gmail.com',
   'pronouns': ['he', 'him']
 }
@@ -33,5 +27,5 @@ const aboutMe = {
 
 ### Stats
 
-![image](https://github-readme-stats.vercel.app/api?username=hackermondev)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev)
+![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1)
