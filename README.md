@@ -31,6 +31,8 @@ const aboutMe = {
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev)
 ![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1)
 
+*I really hate that Javascript is my top language for some reason*
+
 ### Fun Fact
 
 I always have a lot of good ideas but not the resources to execute them!
