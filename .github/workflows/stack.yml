@@ -11,4 +11,3 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - uses: gleich/profile_stack@master
-{"mode":"full","isActive":false}
