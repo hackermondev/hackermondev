@@ -1,0 +1,37 @@
+- name: Golang
+  logo: go
+  url: https://golang.org/
+  color: '#7FD6EA'
+  projects:
+    - url: https://github.com/hackermondev/cosmic
+
+- name: Python
+  logo: python
+  url: https://www.python.org/
+  color: '#3C78A9'
+  projects:
+    - url: https://github.com/hackermondev/GitHub-Follower-Bot
+
+- name: JS/TS
+  logo: typescript
+  url: https://www.typescriptlang.org/
+  color: '#3878C6'
+  projects:
+    - url: https://github.com/hackermondev/GiveawayDrops
+    - url: https://github.com/hackermondev/bread
+    - url: https://github.com/hackermondev/discord-ssh-client
+    - url: https://github.com/is-a-dev/register
+
+- name: PostgreSQL
+  logo: postgresql
+  url: https://postgres.org
+  color: '#336791'
+  projects:
+    - url: https://github.com/hackermondev/discord-ssh-client
+
+- name: Docker
+  logo: docker
+  url: https://www.docker.com/
+  color: '#4FA1EF'
+  projects:
+    - url: https://github.com/hackermondev/discord-ssh-client
