@@ -36,6 +36,9 @@ const aboutMe = {
 ### Fun Fact
 
 I always have a lot of good ideas but not the resources to execute them!
+
+### Stack (public projects)
+
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 | - | - |
