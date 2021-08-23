@@ -28,8 +28,8 @@ const aboutMe = {
 
 ### Stats
 
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev)
-![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1)
+![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1&theme=radical)
+![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev&layout=compact)
 
 *I really hate that Javascript is my top language for some reason*
 
