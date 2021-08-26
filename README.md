@@ -45,3 +45,9 @@ I always have a lot of good ideas but not the resources to execute them!
 | [![JS/TS](https://img.shields.io/static/v1?label=&message=JS/TS&color=3878C6&logo=typescript&logoColor=FFFFFF)](https://www.typescriptlang.org/) | [![register](https://img.shields.io/static/v1?label=&message=register&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/is-a-dev/register) [![Discord-Level-Helper](https://img.shields.io/static/v1?label=&message=Discord-Level-Helper&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackermondev/Discord-Level-Helper) |
 | [![Golang](https://img.shields.io/static/v1?label=&message=Golang&color=7FD6EA&logo=go&logoColor=FFFFFF)](https://golang.org/) | [![daniel-ssh](https://img.shields.io/static/v1?label=&message=daniel-ssh&color=000605&logo=github&logoColor=FFFFFF&labelColor=000605)](https://github.com/hackermondev/daniel-ssh) |
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
+### Donate
+Bitcoin: ``3DviEFbHnr7r68HiRJpynJcwuPCGd72jkH``
+Ethereum: ``0xcdbcbd353ef3954d5f7816009306598e576d7f81``
+
+All donations are appreciated
