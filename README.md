@@ -48,6 +48,7 @@ I always have a lot of good ideas but not the resources to execute them!
 
 ### Donate
 Bitcoin: ``3DviEFbHnr7r68HiRJpynJcwuPCGd72jkH``
+
 Ethereum: ``0xcdbcbd353ef3954d5f7816009306598e576d7f81``
 
-All donations are appreciated
+Want to support some of my work? Feel free to donate any amount. All donations are appreciated
