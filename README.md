@@ -8,8 +8,8 @@ My name is Hackermon!
 
 ```js
 const aboutMe = {
-  'workingOn': 'idk',
-  'learning': '???',
+  'workingOn': 'nothing',
+  'learning': 'Lua',
   'contactMe': 'therealhackermon@gmail.com',
   'pronouns': ['he', 'him']
 }
