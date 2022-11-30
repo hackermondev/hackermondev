@@ -20,5 +20,5 @@ const aboutMe = {
 
 ![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1&theme=radical)
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev&layout=compact)
-[![hackermon#3393](https://discord.c99.nl/widget/theme-1/963141789571756062.png)](https://discord.com/users/963141789571756062)
 
+I no longer have an active Discord account, email me or private message me on Twitter if you need to get in contact with me.
