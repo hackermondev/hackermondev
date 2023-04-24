@@ -1,6 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=hackermondev&color=orange)
 
 [daniel.is-a.dev](https://daniel.is-a.dev)
+[hackerone.com/hackermondev](https://hackerone.com/hackermondev)
 
 ### Hi there 👋
 
