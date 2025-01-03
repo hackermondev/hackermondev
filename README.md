@@ -1,20 +1,5 @@
-![](https://komarev.com/ghpvc/?username=hackermondev&color=orange)
+# whats up
+hi, i'm daniel, i'm a 15-year-old high school junior. in my free time, i [hack billion dollar companies](https://hackerone.com/daniel) and build cool stuff.
 
-### Hi there 👋
-
-My name is Hackermon!
-
-```js
-const aboutMe = {
-  'workingOn': 'nothing',
-  'learning': 'Rust',
-  'contactMe': 'daniel@daniel.is-a.dev',
-  'pronouns': ['he', 'him']
-}
-
-```
-
-### Stats
-
-![image](https://github-readme-stats.vercel.app/api?username=hackermondev&count_private=1&theme=radical)
-![image](https://github-readme-stats.vercel.app/api/top-langs/?username=hackermondev&layout=compact)
+Signal: dan.9915 (preferred)<br>
+Email: daniel@daniel.is-a.dev<br>
